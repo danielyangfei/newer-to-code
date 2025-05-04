@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "@nuxt-themes/docus": "latest",
+    "@nuxt/cli": "^3.25.0",
     "@nuxt/devtools": "^1.6.0",
     "@nuxt/eslint-config": "^0.6.1",
     "@nuxtjs/plausible": "^1.0.3",
@@ -705,9 +706,9 @@
     "statuses": "^2.0.1",
     "std-env": "^3.9.0",
     "streamx": "^2.22.0",
+    "string_decoder": "^1.3.0",
     "string-width": "^4.2.3",
     "string-width-cjs": "^4.2.3",
-    "string_decoder": "^1.3.0",
     "stringify-entities": "^4.0.4",
     "strip-ansi": "^7.1.0",
     "strip-ansi-cjs": "^6.0.1",
@@ -841,5 +842,13 @@
     "zwitch": "^2.0.4"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielyangfei/newer-to-code.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielyangfei/newer-to-code/issues"
+  },
+  "homepage": "https://github.com/danielyangfei/newer-to-code#readme"
 }
