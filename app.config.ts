@@ -42,6 +42,12 @@ export default defineAppConfig({
         text: 'Copyright © 2025 newcoder.space',
         href: '',
       },
+      textLinks: [
+        {
+          text: 'AI Chat',
+          href: 'https://www.wonderai.online/app/chat/ai-chat',
+        },
+      ],
     },
     search: {
       fuse: {
