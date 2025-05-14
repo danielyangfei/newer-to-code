@@ -1,57 +1,19 @@
-# Docus Starter
+# 关于[newcoder.space](https://newcoder.space)
 
-Starter template for [Docus](https://docus.dev).
+## 简介
 
-## Clone
+[newcoder.space](https://newcoder.space) 目前可以当作是一个个人的博客，分享自己在编程以及AI coding 过程中的一些经验心得。希望能够帮助一些像我一些的非技术背景的人，能够尝试编写代码，并在AI的帮助下做出产品。
+长远也希望能够变成一个可以交流的社区。
 
-Clone the repository (using `nuxi`):
+## 适用人群
 
-```bash
-npx nuxi init -t themes/docus
-```
+1. 非技术背景的程序员，如产品经理、运营、市场等
+2. 对编程感兴趣
+3. 有一些想法想要做自己的产品
 
-## Setup
+## 贡献
 
-Install dependencies:
+未来可能会邀请更多的人参与进来，尤其是非技术背景的程序员。
 
-```bash
-yarn install
-```
+博客采用了[Docus](https://docus.dev)
 
-## Development
-
-```bash
-yarn dev
-```
-
-## Edge Side Rendering
-
-Can be deployed to Vercel Functions, Netlify Functions, AWS, and most Node-compatible environments.
-
-Look at all the available presets [here](https://v3.nuxtjs.org/guide/deploy/presets).
-
-```bash
-yarn build
-```
-
-## Static Generation
-
-Use the `generate` command to build your application.
-
-The HTML files will be generated in the .output/public directory and ready to be deployed to any static compatible hosting.
-
-```bash
-yarn generate
-```
-
-## Preview build
-
-You might want to preview the result of your build locally, to do so, run the following command:
-
-```bash
-yarn preview
-```
-
----
-
-For a detailed explanation of how things work, check out [Docus](https://docus.dev).
